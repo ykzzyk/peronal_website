@@ -2,7 +2,7 @@ import React from "react"
 import PropTypes from "prop-types"
 import Helmet from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
-import ogImageDefault from "../../content/default.jpg"
+import ogImageDefault from "../../content/favicon.png"
 
 import { lightTheme } from "../styles/theme"
 
